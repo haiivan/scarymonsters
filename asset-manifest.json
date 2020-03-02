@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scarymonsters/static/css/main.13a37fcb.chunk.css",
+    "main.js": "/scarymonsters/static/js/main.dc0dd2a1.chunk.js",
+    "main.js.map": "/scarymonsters/static/js/main.dc0dd2a1.chunk.js.map",
+    "runtime-main.js": "/scarymonsters/static/js/runtime-main.21ce2b43.js",
+    "runtime-main.js.map": "/scarymonsters/static/js/runtime-main.21ce2b43.js.map",
+    "static/js/2.0b9572cb.chunk.js": "/scarymonsters/static/js/2.0b9572cb.chunk.js",
+    "static/js/2.0b9572cb.chunk.js.map": "/scarymonsters/static/js/2.0b9572cb.chunk.js.map",
+    "index.html": "/scarymonsters/index.html",
+    "precache-manifest.447f7ec8fc3ad1e0b58f2dce0def244e.js": "/scarymonsters/precache-manifest.447f7ec8fc3ad1e0b58f2dce0def244e.js",
+    "service-worker.js": "/scarymonsters/service-worker.js",
+    "static/css/main.13a37fcb.chunk.css.map": "/scarymonsters/static/css/main.13a37fcb.chunk.css.map",
+    "static/js/2.0b9572cb.chunk.js.LICENSE.txt": "/scarymonsters/static/js/2.0b9572cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ce2b43.js",
+    "static/js/2.0b9572cb.chunk.js",
+    "static/css/main.13a37fcb.chunk.css",
+    "static/js/main.dc0dd2a1.chunk.js"
+  ]
+}
